@@ -28,10 +28,10 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 Dans cet exemple, le driver est déjà disponible, si votre écran est branché :
 
-sur le GPIO alors il faudra choisir : - dev/tty/AMA0
-sur une clef USB il faudra choisir : - dev/tty/USB0
+sur le GPIO alors il faudra choisir : - dev/tty/AMA0<br/>
+sur une clef USB il faudra choisir : - dev/tty/USB0<br/>
 
-Pour l'affichage, sélectionner ON7LDS L3 HS
+Pour l'affichage, sélectionner ON7LDS L3 HS<br/>
 
 Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes.
 
