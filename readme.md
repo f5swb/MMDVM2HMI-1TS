@@ -1,5 +1,9 @@
 
+# MMDMVM2HMI 1TS / PISTAR software
 
+French version : https://github-com.translate.goog/f5swb/RDA5807/blob/main/README.md?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=nui,elem
+
+<img src = "https://github.com/f5swb/R.jpg" title = "f5swb">
 
 
 
@@ -7,13 +11,11 @@
 
 1 - télechargement de la dernière version PI-STAR : 
 
-Rendez-vous sur le site de pistar :
-
-https://www.pistar.uk/downloads/
-
-puis allez dans le répertoire download :
+Rendez-vous sur le site de pistar puis allez dans le répertoire download :https://www.pistar.uk/downloads/
 
 https://www.pistar.uk/downloads/Pi-Star_RPi_V4.1.5_21-Jun-2021.zip
+
+(lors de la réalisation de ce tuto la dernière version datait du 21 juin 2021)
 
 Une fois le fichier chargé vous devez l'écrire sur une carte sd.
 ps : je considère que cette étape est acquise.
@@ -24,6 +26,7 @@ Je vous invite à vous rendre sur le site suivant :
 
 
 Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion ici :
+
 
 
 
