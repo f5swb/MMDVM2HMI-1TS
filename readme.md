@@ -6,9 +6,6 @@ French version : https://github-com.translate.goog/f5swb/RDA5807/blob/main/READM
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" title = "boot">
 
 
-
-
-
 ### 1 - télechargement de la dernière version PI-STAR : 
 
 Rendez-vous sur le site de pistar puis allez dans le répertoire download :https://www.pistar.uk/downloads/
@@ -22,10 +19,11 @@ ps : je considère que cette étape est acquise.
 
 ### 2 - Configuation du pistar :
 
-Je vous invite à vous rendre sur le site suivant : 
+Je vous invite à vous rendre sur le site suivant : http://f4dfq.fr/MMDVM-HS-DUAL-V1-3/
 
 
 Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion ici :
+
 
 
 
