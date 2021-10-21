@@ -17,7 +17,7 @@ https://www.pistar.uk/downloads/Pi-Star_RPi_V4.1.5_21-Jun-2021.zip
 
 (lors de la réalisation de ce tuto la dernière version datait du 21 juin 2021)
 
-Une fois le fichier chargé vous devez l'écrire sur une carte sd.
+Une fois le fichier chargé vous devez l'écrire sur une carte sd.<br/>
 ps : je considère que cette étape est acquise.
 
 ### 2 - Configuation du pistar :
