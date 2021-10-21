@@ -6,7 +6,7 @@ French version : https://github-com.translate.goog/f5swb/RDA5807/blob/main/READM
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" title = "boot">
 
 
-### 1 - télechargement de la dernière version PI-STAR : 
+### 1 - Télechargement de la dernière version PI-STAR : 
 
 Rendez-vous sur le site de pistar puis allez dans le répertoire download :https://www.pistar.uk/downloads/
 
@@ -26,22 +26,27 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextion%201.PNG" title = "nextion 1">
 
+Dans cet exemple, le driver est déjà disponible, si votre écran est branché :
+
+sur le GPIO alors il faudra choisir : - dev/tty/AMA0
+sur une clef USB il faudra choisir : - dev/tty/USB0
+
+Pour l'affichage, sélectionner ON7LDS L3 HS
+
+Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes.
 
 
+### 3 - Installation du driver Nextion du pistar :
 
+loguez vous dans le pistar en ssh, 
 
+puis entrez RPI-RW, (suivi de la touche enter),
 
-
-
-HOW TO INSTALL THE NEXTION DRIVER
-
-First install the Nextion driver from ON7LDS L3 HS
-
-log in to your Pi-Star with SSH
-
-RPI-RW
+entrez ensuite cette commande en respectant bien la casse :
 
 sudo rm /usr/local/bin/NextionDriver to erase the old driver
+
+Cette commande a pour action de supprimer le précédent driver de votre système.
 
 get the software Then: cd /tmp
 
