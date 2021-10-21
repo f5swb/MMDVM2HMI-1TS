@@ -15,7 +15,7 @@ puis allez dans le répertoire download :
 
 https://www.pistar.uk/downloads/Pi-Star_RPi_V4.1.5_21-Jun-2021.zip
 
-Une fois le fichier charger vous devez l'écrire sur une carte sd.
+Une fois le fichier chargé vous devez l'écrire sur une carte sd.
 ps : je considère que cette étape est acquise.
 
 2 - Configuation du pistar :
