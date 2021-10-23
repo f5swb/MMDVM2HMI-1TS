@@ -59,11 +59,13 @@ sudo NextionDriverInstaller/install.sh <br/>
 
 ### 4 - Vérification de la présence du driver Nextion  pour le pistar :
 
-Vous constaterez que dans le fichier MMDVMHost dans la partie Nextion part de la page, il y a eu de nouvelles rubriques qui ont été ajoutées : <br/>
+Vous constaterez que dans le fichier MMDVMHost dans la partie Nextion de la page, il y a eu de nouvelles rubriques qui ont été ajoutées : <br/>
 
-Rendez-vous sur l'item Expert Page => MMDVMHost Editor : <br/>
+Rendez-vous sur l'item Expert Page => MMDVMHost : <br/>
 
 - vérifiez la présence de /dev/ttyNextionDriver (adaptateur USB) ou /dev/ttyAMA0 (connecté au GPIO du RPi) ; <br/>
+
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/control%201.PNG" title = "control 1">
 
 - vérifiez dans l'item NextionDriver : <br/>
     Port: /dev/ttyUSB0 (pour un adaptateur USB)  ou /dev/ttyAMA0 (connecté au GPIO du RPi) <br/>
@@ -71,6 +73,11 @@ Rendez-vous sur l'item Expert Page => MMDVMHost Editor : <br/>
     DataFilesPath: /usr/local/etc/  <br/>
     GroupsFile: groups.txt  <br/>
     DMRidFile: stripped.csv  <br/>
+    
+    
+    
+    
+    
 Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.
 
 ### 5 - Utilsation de l'image MMDVM2HMI pour le pistar :
