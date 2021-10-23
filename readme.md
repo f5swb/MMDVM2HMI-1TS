@@ -33,7 +33,7 @@ sur une clef USB il faudra choisir : - dev/tty/USB0<br/>
 Pour l'affichage, sélectionner ON7LDS L3 HS<br/>
 
 Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes : <br/>
-(la vitesse du processeur du RPI,l'occupation processeur ainsi que le taux d'espace libre de la carte sd. 
+la vitesse du processeur du RPI, l'occupation processeur ainsi que le taux d'espace libre de la carte sd. 
 
 
 ### 3 - Installation du driver Nextion du pistar :
