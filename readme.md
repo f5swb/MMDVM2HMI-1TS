@@ -45,7 +45,7 @@ RPI-RW, (suivi de la touche enter),
 
 entrez ensuite cette commande en respectant bien la casse : <br/>
 
-sudo rm /usr/local/bin/NextionDriver to erase the old driver
+sudo rm /usr/local/bin/NextionDriver 
 
 Cette commande a pour action de supprimer le précédent driver de votre système.
 
