@@ -21,9 +21,17 @@ ps : je considère que cette étape est acquise.
 Je vous invite à vous rendre sur le site suivant : http://f4dfq.fr/MMDVM-HS-DUAL-V1-3/
 
 
-Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion ici :
+Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion :
 
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextion%201.PNG" title = "nextion 1">
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%201.PNG" title = "conf 1">
+
+Choisissez alors : 
+
+-
+-
+-
+
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%201.PNG" title = "conf 1">
 
 Dans cet exemple, le driver est déjà disponible, si votre écran est branché :
 
