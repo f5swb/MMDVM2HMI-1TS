@@ -99,4 +99,4 @@ Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/boot.gif " title = "boot">  
 
-Une fois le système initialisé, l'affichage de l'item NEXTION dRIVER 1.22 vous confirme le bon fonctionnement.
+Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous confirme le bon fonctionnement.
