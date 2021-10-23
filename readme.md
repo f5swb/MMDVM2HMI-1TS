@@ -23,7 +23,7 @@ Je vous invite à vous rendre sur le site suivant : http://f4dfq.fr/MMDVM-HS-DUA
 
 
 Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion :<br/>
-- cliquez sur l'item expert puis MMDVMHost : <br/>
+- cliquez sur Configuration : <br/>
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%200.PNG" title = "conf 0">
 
