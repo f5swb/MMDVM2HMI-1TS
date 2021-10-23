@@ -61,17 +61,14 @@ sudo rm /usr/local/bin/NextionDriver
 Cette commande a pour action de supprimer le précédent driver de votre système.
 
 Ensuite nous allons installer la dernière version du driver pour le Nextion : <br/>
-
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextiondriver.PNG" title = "nextion driver">
-
 cd /tmp <br/>
 
 git clone https://github.com/on7lds/NextionDriverInstaller.git <br/>
 
 sudo NextionDriverInstaller/install.sh <br/>
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextiondriver.PNG" title = "nextion driver">
 
-
-
+A l'issue le système vous propose un redémarrage, entrez y.
 
 ### 4 - Vérification de la présence du driver Nextion  pour le pistar :
 
