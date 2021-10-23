@@ -30,12 +30,12 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 Choisissez alors dans la partie Afficheur MMDVM : <br/>
 
-- sur le GPIO alors il faudra choisir : - dev/tty/AMA0<br/>
-- sur une clef USB il faudra choisir : - dev/tty/USB0<br/>
+- sur le GPIO alors il faudra choisir : dev/ttyAMA0<br/>
+- sur une clef USB il faudra choisir : dev/ttyUSB0<br/>
 - pour l'affichage, sélectionner ON7LDS L3 HS<br/>
 
 Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes : <br/>
-la vitesse du processeur du RPI, l'occupation processeur ainsi que le taux d'espace libre de la carte sd. 
+la vitesse du processeur du RPI, l'occupation processeur ainsi que le taux d'espace libre sur la carte sd. 
 
 
 ### 3 - Installation du driver Nextion du pistar :
