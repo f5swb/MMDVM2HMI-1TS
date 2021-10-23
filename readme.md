@@ -44,7 +44,7 @@ loguez vous dans le pistar en ssh en cliquant sur EXPERT puis SSH Access :
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/ssh.PNG" title = "conf 1">
 
-le login est : pi-star
+le login est : pi-star<br/>
 le mot de passe est : raspberry
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/rpi-rw.PNG" title = "conf 1">
