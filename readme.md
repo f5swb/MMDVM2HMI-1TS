@@ -73,12 +73,15 @@ Rendez-vous sur l'item Expert Page => MMDVMHost : <br/>
     DataFilesPath: /usr/local/etc/  <br/>
     GroupsFile: groups.txt  <br/>
     DMRidFile: stripped.csv  <br/>
+ 
+ 
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/control%202.PNG" title = "control 2">  
     
-    
-    
-    
-    
-Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.
+Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br/>
 
-### 5 - Utilsation de l'image MMDVM2HMI pour le pistar :
+### 5 - Utilsation de l'image MMDVM2HMI pour le pistar :<br/>
+
+- démarrage de l'écran et controle de la présence du driver :<br/>
+
+
 
