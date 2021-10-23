@@ -21,10 +21,13 @@ ps : je considère que cette étape est acquise.
 Je vous invite à vous rendre sur le site suivant : http://f4dfq.fr/MMDVM-HS-DUAL-V1-3/
 
 
-Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion :
-- cliquez sur l'item 
+Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nextion :<br/>
+- cliquez sur l'item expert puis MMDVMHost : <br/>
 
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%201.PNG" title = "conf 1">
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%200.PNG" title = "conf 0">
+
+
+
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%201.PNG" title = "conf 1">
 
