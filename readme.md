@@ -62,7 +62,8 @@ Cette commande a pour action de supprimer le précédent driver de votre systèm
 
 Ensuite nous allons installer la dernière version du driver pour le Nextion : <br/>
 
-img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextiondriver.PNG" title = "nextion driver">
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextiondriver.PNG" title = "nextion driver">
+
 cd /tmp <br/>
 
 git clone https://github.com/on7lds/NextionDriverInstaller.git <br/>
