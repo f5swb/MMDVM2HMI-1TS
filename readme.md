@@ -43,10 +43,10 @@ la vitesse du processeur du RPI, l'occupation processeur ainsi que le taux d'esp
 loguez vous dans le pistar en ssh en cliquant sur EXPERT puis SSH Access :
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/ssh.PNG" title = "conf 1">
-https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/ssh.PNG
 
 puis entrez : <br/>
 RPI-RW, (suivi de la touche enter),
+
 
 entrez ensuite cette commande en respectant bien la casse : <br/>
 
