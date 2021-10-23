@@ -68,7 +68,7 @@ git clone https://github.com/on7lds/NextionDriverInstaller.git <br/>
 sudo NextionDriverInstaller/install.sh <br/>
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/nextiondriver.PNG" title = "nextion driver">
 
-A l'issue le système vous propose un redémarrage, entrez y.
+A l'issue le système vous propose un redémarrage, entrez Y puis enter.
 
 ### 4 - Vérification de la présence du driver Nextion  pour le pistar :
 
