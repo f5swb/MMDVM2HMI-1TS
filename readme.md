@@ -31,8 +31,8 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 Choisissez alors dans la partie Afficheur MMDVM : <br/>
 
-- sur le GPIO alors il faudra choisir : dev/ttyAMA0<br/>
-- sur une clef USB il faudra choisir : dev/ttyUSB0<br/>
+- sur le GPIO alors il faudra choisir : /dev/ttyAMA0<br/>
+- sur une clef USB il faudra choisir : /dev/ttyUSB0<br/>
 - pour l'affichage, sélectionner ON7LDS L3 HS<br/>
 
 Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes : <br/>
