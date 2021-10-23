@@ -61,15 +61,17 @@ sudo NextionDriverInstaller/install.sh <br/>
 
 Vous constaterez que dans le fichier MMDVMHost dans la partie Nextion part de la page, il y a eu de nouvelles rubriques qui ont été ajoutées : <br/>
 
+Rendez-vous sur l'item Expert Page => MMDVMHost Editor : <br/>
 
-Check your software settings in Pi-Star:
+- vérifiez la présence de /dev/ttyNextionDriver (adaptateur USB) ou /dev/ttyAMA0 (connecté au GPIO du RPi) ; <br/>
 
-Goto the Expert Page => MMDVMHost Editor (or mmdvmhost.ini file) to the Nextion part
+- vérifiez dans l'item NextionDriver :
+    Port: /dev/ttyUSB0 (pour un adaptateur USB)  ou /dev/ttyAMA0 (connecté au GPIO du RPi) <br/>
+    LogLevel: 2  <br/>
+    DataFilesPath: /usr/local/etc/  <br/>
+    GroupsFile: groups.txt  <br/>
+    DMRidFile: stripped.csv  <br/>
+Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.
 
-check/set in the Nextion part, the driver at /dev/ttyNextionDriver (USB adapter) or /dev/ttyAMA0 (connected to GPIO-RPi)
-check/set in the NextionDriver part
-    Port: /dev/ttyUSB0 (for USB adapter) or /dev/ttyAMA0 (connected to the GPIO pins of RPi)****
-    LogLevel: 2
-    DataFilesPath: /usr/local/etc/
-    GroupsFile: groups.txt
-    DMRidFile: stripped.csv
+### 5 - Utilsation de l'image MMDVM2HMI pour le pistar :
+
