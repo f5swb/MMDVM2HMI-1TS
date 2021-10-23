@@ -26,7 +26,7 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%200.PNG" title = "conf 0">
 
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%200bis.PNG" title = "conf 1">
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%202bis.PNG" title = "conf 1">
 
 Choisissez alors dans la partie Afficheur MMDVM : <br/>
 
