@@ -50,7 +50,7 @@ le mot de passe est : raspberry
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/rpi-rw.PNG" title = "rpi-rw 1">
 
 puis entrez : <br/>
-RPI-RW, (suivi de la touche enter),
+rpi-rw, (suivi de la touche enter),
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/git.PNG" title = "git">
 
@@ -65,8 +65,6 @@ Ensuite nous allons installer la dernière version du driver pour le Nextion : <
 cd /tmp <br/>
 
 git clone https://github.com/on7lds/NextionDriverInstaller.git <br/>
-
-
 
 
 sudo NextionDriverInstaller/install.sh <br/>
