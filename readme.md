@@ -26,9 +26,6 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%200.PNG" title = "conf 0">
 
-
-
-
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%200bis.PNG" title = "conf 1">
 
 Choisissez alors dans la partie Afficheur MMDVM : <br/>
@@ -36,8 +33,6 @@ Choisissez alors dans la partie Afficheur MMDVM : <br/>
 - sur le GPIO alors il faudra choisir : - dev/tty/AMA0<br/>
 - sur une clef USB il faudra choisir : - dev/tty/USB0<br/>
 - pour l'affichage, sélectionner ON7LDS L3 HS<br/>
-
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%202.PNG" title = "conf 2">
 
 Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes : <br/>
 la vitesse du processeur du RPI, l'occupation processeur ainsi que le taux d'espace libre de la carte sd. 
