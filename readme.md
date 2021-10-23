@@ -31,7 +31,7 @@ Une fois votre hotspot pistar fonctionnel, vous allez déclarer votre écran Nex
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/conf%201.PNG" title = "conf 1">
 
-Choisissez alors : 
+Choisissez alors dans la partie Afficheur MMDVM : <br/>
 
 - sur le GPIO alors il faudra choisir : - dev/tty/AMA0<br/>
 - sur une clef USB il faudra choisir : - dev/tty/USB0<br/>
