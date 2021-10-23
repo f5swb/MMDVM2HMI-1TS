@@ -32,32 +32,37 @@ sur une clef USB il faudra choisir : - dev/tty/USB0<br/>
 
 Pour l'affichage, sélectionner ON7LDS L3 HS<br/>
 
-Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes.
+Redémarrer alors votre PISTAR, l'écran doit s'initialiser mais comme vous le constaterez de nombreuses informations sont absentes : <br/>
+(la vitesse du processeur du RPI,l'occupation processeur ainsi que le taux d'espace libre de la carte sd. 
 
 
 ### 3 - Installation du driver Nextion du pistar :
 
 loguez vous dans le pistar en ssh, 
 
-puis entrez RPI-RW, (suivi de la touche enter),
+puis entrez : <br/>
+RPI-RW, (suivi de la touche enter),
 
-entrez ensuite cette commande en respectant bien la casse :
+entrez ensuite cette commande en respectant bien la casse : <br/>
 
 sudo rm /usr/local/bin/NextionDriver to erase the old driver
 
 Cette commande a pour action de supprimer le précédent driver de votre système.
 
-get the software Then: cd /tmp
+Ensuite nous allons installer la dernière version du driver pour le Nextion : <br/>
 
-git clone https://github.com/on7lds/NextionDriverInstaller.git
+cd /tmp <br/>
 
-go !
+git clone https://github.com/on7lds/NextionDriverInstaller.git <br/>
 
-sudo NextionDriverInstaller/install.sh
+sudo NextionDriverInstaller/install.sh <br/>
 
-Checking the installing (on Pi-Star)
+### 4 - Vérification de la présence du driver Nextion  pour le pistar :
 
-You will notice that in the MMDVMHost beyond the Nextion part of that page, there are some additions regarding this Nextion Interface: Check your software settings in Pi-Star:
+Vous constaterez que dans le fichier MMDVMHost dans la partie Nextion part de la page, il y a eu de nouvelles rubriques qui ont été ajoutées : <br/>
+
+
+Check your software settings in Pi-Star:
 
 Goto the Expert Page => MMDVMHost Editor (or mmdvmhost.ini file) to the Nextion part
 
