@@ -65,7 +65,7 @@ Rendez-vous sur l'item Expert Page => MMDVMHost Editor : <br/>
 
 - vérifiez la présence de /dev/ttyNextionDriver (adaptateur USB) ou /dev/ttyAMA0 (connecté au GPIO du RPi) ; <br/>
 
-- vérifiez dans l'item NextionDriver :
+- vérifiez dans l'item NextionDriver : <br/>
     Port: /dev/ttyUSB0 (pour un adaptateur USB)  ou /dev/ttyAMA0 (connecté au GPIO du RPi) <br/>
     LogLevel: 2  <br/>
     DataFilesPath: /usr/local/etc/  <br/>
