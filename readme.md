@@ -97,4 +97,5 @@ Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br
 - démarrage de l'écran et controle de la présence du driver :<br/>
 
 
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/boot.gif " title = "boot">  
 
