@@ -117,4 +117,4 @@ Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous
 
 ### 7 - Page informations :<br/>
 
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/Animated_gif/mmdvm_r%C3%A9glages.gif" title = "réglages">  
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/Animated_gif/infos.gif" title = "réglages">  
