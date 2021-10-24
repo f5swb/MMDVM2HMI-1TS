@@ -93,7 +93,7 @@ Rendez-vous sur l'item Expert Page => MMDVMHost : <br/>
     
 Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br/>
 
-### 5 - Utilsation de l'image MMDVM2HMI pour le pistar :<br/>
+### 5 - Utilisation de l'image MMDVM2HMI pour le pistar :<br/>
 
 - démarrage de l'écran et controle de la présence du driver :<br/>
 
@@ -102,4 +102,5 @@ Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br
 
 Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous confirme le bon fonctionnement.<br/>
 
-A suivre ...
+### 6 - Ecran MMDVM2HMI :<br/>
+
