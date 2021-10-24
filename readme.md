@@ -102,8 +102,10 @@ Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br
 
 Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous confirme le bon fonctionnement.<br/>
 
-### 6 - Ecran MMDVM2HMI :<br/>
+### 6 - Ecran MMDVM :<br/>
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/Animated_gif/mmdvm_screen_start.gif" title = "start">  
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/pictures/mmdvm_screen_help.png" title = "help">  
+
+### 7 - Page réglages :<br/>
