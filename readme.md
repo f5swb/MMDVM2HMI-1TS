@@ -8,12 +8,12 @@ English version : https://github-com.translate.goog/f5swb/MMDVM2HMI-1TS/blob/mas
 
 # INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO :
 
-Ce projet est encore au stade de développement. Une version de démonstration sera bientot disponible (5 démarrages).
-Afin de me permettre de poursuivre le développement et de travailler sur une version DMR 2 Time slot, 
-j'ai besoin pour cela de m'autofinancer afin d'investir dans une platine MMDVM 2 TS.
+Ce projet est encore au stade de développement. Une version de démonstration sera bientot disponible (5 démarrages). <br/>
+Afin de me permettre de poursuivre le développement et de travailler sur une version DMR 2 Time slot.<br/> 
+j'ai besoin pour cela de m'autofinancer afin d'investir dans une platine MMDVM 2 TS.<br/>
 
-En fonction de la demande et l'engouement que cette version procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.
-Une version enregistrée à votre callsign non limitée dans le temps sera alors proposée à 10€ d'ici quelques semaines (en phase de test actuellement).
+En fonction de la demande et l'engouement que cette version procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.<br/>
+Une version enregistrée à votre callsign non limitée dans le temps sera alors proposée à 10€ d'ici quelques semaines (en phase de test actuellement).<br/>
 
 73's QRO.
 F5SWB Dimitri.
