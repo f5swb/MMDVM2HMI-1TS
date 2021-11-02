@@ -113,6 +113,9 @@ L'image proposée est compatible avec un écran NEXTION NX4832 35K uniquement !!
 
 Afin de disposer de la date et l'heure vous devez insérer une pile dans l'emplacement prévu à cet effet :
 
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/rtc_battery.jpg" title = "rtc">  
+
+
 
 
 - démarrage de l'écran et controle de la présence du driver :<br/>
