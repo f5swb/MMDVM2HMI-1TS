@@ -146,3 +146,4 @@ Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous
 
 ### 9 - Page world Time :<br/>
 
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/Animated_gif/world%20time.gif" title = "world time">  
