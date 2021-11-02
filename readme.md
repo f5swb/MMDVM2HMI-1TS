@@ -109,12 +109,9 @@ Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br
 
 L'image proposée est compatible avec un écran NEXTION NX4832 35K uniquement !!!<br/>
 
-
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/NEXTION.png" title = "nextion">  
 
 Afin de disposer de la date et l'heure vous devez insérer une pile dans l'emplacement prévu à cet effet :
-
-
-
 
 
 
