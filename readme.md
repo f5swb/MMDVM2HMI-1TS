@@ -6,6 +6,19 @@
 
 English version : https://github-com.translate.goog/f5swb/MMDVM2HMI-1TS/blob/master/readme.md?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=nui,elem <br/>
 
+# INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO :
+
+Ce projet est encore au stade de développement. Une version de démonstration sera bientot disponible (5 démarrages).
+Afin de me permettre de poursuivre le développement et de travailler sur une version DMR 2 Time slot, 
+j'ai besoin pour cela de m'autofinancer afin d'investir dans une platine MMDVM 2 TS.
+
+En fonction de la demande et l'engouement que cette version procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.
+Une version enregistrée à votre callsign non limitée dans le temps sera alors proposée à 10€ d'ici quelques semaines (en phase de test actuellement).
+
+73's QRO.
+F5SWB Dimitri.
+
+
 ### 1 - Télechargement de la dernière version PI-STAR : 
 
 Rendez-vous sur le site de pistar puis allez dans le répertoire download :https://www.pistar.uk/downloads/
