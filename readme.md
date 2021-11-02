@@ -2,8 +2,8 @@
 # MMDVM2HMI 1TS / PISTAR software 
 (f5swb@hotmail.com 2021).
 
-<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" title = "boot">
-
+<img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" title = "boot"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/DVmegaUHF_pr7813_1.jpg" title = "boot">
+ 
 English version : https://github-com.translate.goog/f5swb/MMDVM2HMI-1TS/blob/master/readme.md?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=nui,elem <br/>
 
 # INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO :
