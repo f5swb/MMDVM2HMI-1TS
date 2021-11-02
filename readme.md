@@ -121,6 +121,12 @@ Afin de disposer de la date et l'heure vous devez insérer une pile dans l'empla
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/rtc_battery.jpg" title = "rtc">  
 
 
+Deux images (tft) sont disponibles au téléchargement :
+
+- MMDVM2HMI_V1_Demo_90deg.tft : si l'encoche de votre écran est vers le bas ;
+
+
+- MMDVM2HMI_V1_Demo_270deg.tft : si l'encoche de votre écran est vers le haut.
 
 
 - démarrage de l'écran et controle de la présence du driver :<br/>
