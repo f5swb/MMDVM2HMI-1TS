@@ -118,7 +118,7 @@ Si tout est correct, vous pouvez alors éteindre le pistar et le redémarrer.<br
 
 ### 5 - Utilisation de l'image MMDVM2HMI pour le pistar :<br/>
 
-L'image proposée est compatible avec un écran NEXTION NX4832 35K uniquement !!!<br/>
+##### L'image proposée est compatible avec un écran NEXTION NX4832K035_11 uniquement !!!<br/>
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/NEXTION.png" title = "nextion">  
 
