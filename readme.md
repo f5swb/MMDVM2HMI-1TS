@@ -15,7 +15,7 @@ English version : https://github-com.translate.goog/f5swb/MMDVM2HMI-1TS/blob/mas
 # INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO :
 
 Une version de démonstration est dès à présent disponible (version 90° et version 270°). <br/>
-Cette version ne peut être lancée que 5 fois. A l'issue celle-ci n'est plus fonctionnelle.<br/>
+#### Cette version ne peut être lancée que 5 fois. A l'issue celle-ci n'est plus fonctionnelle.<br/>
 
 Une version enregistrée à votre callsign non limitée et complètement fonctionnelle dans le temps vous sera très prochainement proposée pour 10€.<br/>
 
