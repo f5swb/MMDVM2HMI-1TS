@@ -5,8 +5,7 @@
  <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" width="350" height="250" title = "boot"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/f5swb.jpg" title = "f5swb"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/DVmegaUHF_pr7813_1.jpg" title = "boot">
 
 
-
-
+#### L'image proposée est compatible avec un écran NEXTION NX4832K035_11 uniquement pour le moment !!!<br/>
 
 
  
