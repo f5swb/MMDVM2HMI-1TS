@@ -29,6 +29,11 @@ https://www.passion-radio.fr/numerique/duplex-mmdvm-706.html
 En fonction de la demande et l'engouement que cette version suscitera et procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.<br/>
 
 
+Group Email Addresses:
+
+Post: mmdvm2hmi@groups.io
+Subscribe: mmdvm2hmi+subscribe@groups.io
+
 73's QRO.
 F5SWB Dimitri.
 
