@@ -21,7 +21,7 @@ Afin de me permettre de poursuivre le développement et de travailler sur une ve
 https://www.passion-radio.fr/numerique/duplex-mmdvm-706.html
 
 
-En fonction de la demande et l'engouement que cette version procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.<br/>
+En fonction de la demande et l'engouement que cette version suscitera et procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.<br/>
 Une version enregistrée à votre callsign non limitée dans le temps sera alors proposée à 10€ d'ici quelques semaines (en phase de test actuellement).<br/>
 
 73's QRO.
