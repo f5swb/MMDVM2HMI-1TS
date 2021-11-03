@@ -14,7 +14,11 @@ English version : https://github-com.translate.goog/f5swb/MMDVM2HMI-1TS/blob/mas
 
 # INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO INFO :
 
-Ce projet est encore au stade de développement. Une version de démonstration sera bientot disponible (5 démarrages). <br/>
+Une version de démonstration est dès à présent disponible (version 90° et version 270°). <br/>
+Cette version ne peut être lancée que 5 fois. A l'issue celle-ci n'est plus fonctionnelle.<br/>
+
+Une version enregistrée à votre callsign non limitée et complètement fonctionnelle dans le temps vous sera très prochainement proposée pour 10€.<br/>
+
 Afin de me permettre de poursuivre le développement et de travailler sur une version DMR 2 Time slot, j'ai besoin pour cela de m'autofinancer afin d'investir dans une platine MMDVM 2 TS.<br/>
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/duplex-mmdvm.jpg" title = "mmdvm">
@@ -23,7 +27,7 @@ https://www.passion-radio.fr/numerique/duplex-mmdvm-706.html
 
 
 En fonction de la demande et l'engouement que cette version suscitera et procurera, j'étudierai peut-être le support également des modes DSTAR, CF4M, P25 et NXDN.<br/>
-Une version enregistrée à votre callsign non limitée dans le temps sera alors proposée à 10€ d'ici quelques semaines (en phase de test actuellement).<br/>
+
 
 73's QRO.
 F5SWB Dimitri.
