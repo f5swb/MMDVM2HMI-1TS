@@ -31,8 +31,8 @@ En fonction de la demande et l'engouement que cette version suscitera et procure
 
 Group Email Addresses:
 
-Post: mmdvm2hmi@groups.io
-Subscribe: mmdvm2hmi+subscribe@groups.io
+Post: mmdvm2hmi@groups.io <br/>
+Subscribe: mmdvm2hmi+subscribe@groups.io <br/>
 
 73's QRO.
 F5SWB Dimitri.
