@@ -131,11 +131,10 @@ Deux images (tft) sont disponibles au téléchargement :
 
 - MMDVM2HMI_V1_Demo_90deg.tft : si l'encoche de votre écran est vers le bas ; <br/>
 
-https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/TFT_Files/MMDVM2HMI_V1_Demo_90deg.tft
 
 - MMDVM2HMI_V1_Demo_270deg.tft : si l'encoche de votre écran est vers le haut. <br/>
 
-https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/TFT_Files/MMDVM2HMI_V1_Demo_270deg.tft
+https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/TFT_Files/mmdvm2hmi_v1.0_1TS_demo_270deg_final.tft
 
 - démarrage de l'écran et controle de la présence du driver :<br/>
 
