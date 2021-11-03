@@ -2,7 +2,7 @@
 # MMDVM2HMI DMR 1TS / PISTAR software 
 (f5swb@hotmail.com 2021).
 
- <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" width="250" height="150" title = "boot"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/f5swb.jpg" title = "f5swb"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/DVmegaUHF_pr7813_1.jpg" title = "boot">
+ <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/0_1.png" width="350" height="250" title = "boot"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/f5swb.jpg" title = "f5swb"> <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/DVmegaUHF_pr7813_1.jpg" title = "boot">
 
 
 
