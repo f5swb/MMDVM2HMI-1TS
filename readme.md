@@ -175,3 +175,30 @@ Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous
 ### 9 - Page world Time :<br/>
 
 <img src = "https://github.com/f5swb/MMDVM2HMI-1TS/blob/master/Animated_gif/world%20time.gif" title = "world time">  
+
+#### 10 - Activer les informations réseaux : <br/>
+
+cd /etc
+sudo nano mmdvmhost
+
+
+
+
+[NextionDriver]                                                             
+Port=/dev/ttyUSB0                                                           
+DataFilesPath=/usr/local/etc/                                               
+LogLevel=2                                                                  
+GroupsFile=groups.txt                                                       
+DMRidFile=stripped.csv                                                      
+#DMRidDelimiter=,                                                           
+#DMRidId=1                                                                  
+#DMRidCall=2                                                                
+#DMRidName=3                                                                
+#DMRidX1=4                                                                  
+#DMRidX2=5                                                                  
+#DMRidX3=7                                                                  
+## ShowModesStatus=1                                                           
+RemoveDim=0                                                                 
+WaitForLan=1                                                                
+SleepWhenInactive=0            
+
