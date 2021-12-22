@@ -181,9 +181,6 @@ Une fois le système initialisé, l'affichage de l'item Driver Nextion 1.22 vous
 cd /etc
 sudo nano mmdvmhost
 
-
-
-
 [NextionDriver]                                                             
 Port=/dev/ttyUSB0                                                           
 DataFilesPath=/usr/local/etc/                                               
@@ -202,3 +199,15 @@ RemoveDim=0
 WaitForLan=1                                                                
 SleepWhenInactive=0            
 
+# 11 - Mise à jour de group.txt et user.csv : <br/>
+
+1. rpi-rw
+2. wget "https://api.brandmeister.network/v1.0/groups/" -O /tmp/groups.txt
+3. sudo cp /tmp/groups.txt /usr/local/etc/
+
+This is not a command only information # update DMR all users list infromation
+
+4. wget "https://database.radioid.net/static/user.csv" -O /tmp/stripped.csv
+5. sudo cp /tmp/stripped.csv /usr/local/etc/
+6. sudo reboot
+7. 
